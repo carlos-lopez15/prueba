@@ -1,0 +1,12 @@
+/* Cambia el color de toda la fuente */
+body {
+  color: blue;          /* Texto azul */
+  background-color: #f0f0f0; /* Fondo gris claro */
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo específico para el título */
+h1 {
+  color: red;           /* El título en rojo */
+  text-align: center;   /* Centrado en la página */
+}
